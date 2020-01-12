@@ -242,7 +242,9 @@
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "ord(\"9\") - 49"
+   ]
   },
   {
    "cell_type": "code",
